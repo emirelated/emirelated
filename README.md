@@ -26,11 +26,14 @@ Below, you'll find my contact links, thanks for visiting, and feel free to reach
 </p>
 
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages, libraries & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=haskell" />
+  </a>
 
 </p>
 
@@ -45,7 +48,17 @@ Below, you'll find my contact links, thanks for visiting, and feel free to reach
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,gitlab" />
+  </a>
+  
+</p>
 
+<h3 align="center">OS</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
+  </a>
 </p>
 
 <p align="center">

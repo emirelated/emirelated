@@ -17,7 +17,7 @@ Below, you'll find my contact links, thanks for visiting, and feel free to reach
 - Backend Development, DevOps Cloud, and ML/AI Researcher.
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/emirelated">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emirelated&cache_seconds=7200&layout=compact&theme=shades-of-purple&border_radius=10" alt="emirelated's GitHub Stats" />
@@ -67,7 +67,7 @@ Below, you'll find my contact links, thanks for visiting, and feel free to reach
   </a>
 </p>
 
-## 🔗 
+## 📨 Contact me 
 <p align="center">
   <a href="https://www.linkedin.com/in/emir-nrodriguez/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />

@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 
-I’m an **Information Systems Engineering student at UTN FRC** fueled by a strong curiosity to understand how technology works from the inside out. I love taking on programming challenges and am always seeking new learning paths to refine my skills and build consistent projects.
+I’m an **Information Systems Engineering student at UTN FRC** fueled by a strong curiosity to understand how technology works from the inside out. I love taking on programming challenges and am always seeking new learning paths to refine my skills and build consistent projects. I'm interested in these positions: Python Developer, DevOps Cloud or ML Developer.
 
 ### 🎯 Current Focus & Milestones
 *   **Certifications:** Pursuing **PCEP** & **PCAP** (Python) | Beginning my cloud journey with **AWS Cloud Practitioner Essentials**.
@@ -11,11 +11,6 @@ I’m an **Information Systems Engineering student at UTN FRC** fueled by a stro
 
 ---
 Below, you'll find my contact links, thanks for visiting, and feel free to reach out. 🌱
-
-
-## 🧠 My Focus Areas
-- Backend Development, DevOps Cloud, and ML/AI Researcher.
-
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -67,7 +62,7 @@ Below, you'll find my contact links, thanks for visiting, and feel free to reach
   </a>
 </p>
 
-## 📨 Contact me 
+## 📨 Contact links & email 
 <p align="center">
   <a href="https://www.linkedin.com/in/emir-nrodriguez/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />

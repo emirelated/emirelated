@@ -46,13 +46,19 @@ Below, you'll find my contact links, thanks for visiting, and feel free to reach
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,gitlab" />
   </a>
-  
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt,claude,gemini,jira" />
+  </a>
 </p>
 
-<h3 align="center">OS</h3>
+
+<h3 align="center">OS & Consoles</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
+  </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gitbash" />
   </a>
 </p>
 
@@ -61,6 +67,10 @@ Below, you'll find my contact links, thanks for visiting, and feel free to reach
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emirelated&langs_count=8&layout=compact&theme=shades-of-purple&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
+## 🧩 Certifications & Courses
+*   **Introduction to Application Development on Kubernetes: Sandbox Course, Cloud Native Sandbox series, EPAM Systems - 2026**.
+*   **Artificial Intelligence, Samsung Innovation Campus - 2025**.
 
 ## 📨 Contact links & email 
 <p align="center">

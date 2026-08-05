@@ -5,7 +5,7 @@
 I’m an **Information Systems Engineering student at UTN FRC** fueled by a strong curiosity to understand how technology works from the inside out. I love taking on programming challenges and am always seeking new learning paths to refine my skills and build consistent projects. I'm interested in these positions: Python Developer, DevOps Cloud or ML Developer.
 
 ### 🎯 Current Focus & Milestones
-*   **Certifications:** Pursuing **PCEP** & **PCAP** (Python) | Beginning my cloud journey with **AWS Cloud Practitioner Essentials**.
+*   **Certifications:** Pursuing **PCAP** (Python) | Beginning my cloud journey with **AWS Cloud Practitioner Essentials**.
 *   **Web Dev:** Learning **Django** and **Flask** for upcoming backend projects.
 *   **Databases:** Planning to master **MySQL** and **MongoDB** next.
 
@@ -68,9 +68,10 @@ Below, you'll find my contact links, thanks for visiting, and feel free to reach
   </a>
 </p>
 
-## 🧩 Certifications & Courses
-*   **Introduction to Application Development on Kubernetes: Sandbox Course, Cloud Native Sandbox series, EPAM Systems - 2026**.
-*   **Artificial Intelligence, Samsung Innovation Campus - 2025**.
+## 🧩 Certifications & Courses. [Cert/Course Title - Organization - Issued on]
+*   **Python Essentials 1, Equal to PCEP[30-02] - Cisco Networking Academy - Aug, 2026**.
+*   **Introduction to Application Development on Kubernetes: Sandbox Course, Cloud Native Sandbox series - EPAM Systems - 2026**.
+*   **Artificial Intelligence - Samsung Innovation Campus - 2025**.
 
 ## 📨 Contact links & email 
 <p align="center">

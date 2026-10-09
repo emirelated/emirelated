@@ -4,6 +4,8 @@
 
 I’m an **Information Systems Engineering student at UTN FRC** fueled by a strong curiosity to understand how technology works from the inside out. I love taking on programming challenges and am always seeking new learning paths to refine my skills and build consistent projects. I'm interested in these positions: Python Developer, DevOps Cloud or ML Developer.
 
+For clarification, less than 10% of my repos are public.
+
 ### 🎯 Current Focus & Milestones
 *   **Certifications:** Pursuing **PCAP** (Python) | Beginning my cloud journey with **AWS Cloud Practitioner Essentials**.
 *   **Web Dev:** Learning **Django** and **Flask** for upcoming backend projects.

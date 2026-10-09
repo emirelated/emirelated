@@ -7,7 +7,7 @@ I’m an **Information Systems Engineering student at UTN FRC** fueled by a stro
 For clarification, less than 10% of my repos are public.
 
 ### 🎯 Current Focus & Milestones
-*   **Main task:** Working on a complete task from scratch assigned by my mentor. - Prio 1
+*   **Main task:** Working on a complete SDLC including deployment and development assigned by my mentor. - Prio 1
 *   **Certifications:** Pursuing **PCAP** (Python) | Beginning my cloud journey with **AWS Cloud Practitioner Essentials**. - Prio 2
 *   **Databases:** Planning to master **MySQL** and **MongoDB** next. - Prio 2
 *   **Web Dev:** Learning **Django** and **Flask** for upcoming backend projects. - Prio 3

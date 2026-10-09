@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 
-I’m an **Information Systems Engineering student at UTN FRC** fueled by a strong curiosity to understand how technology works from the inside out. I love taking on programming challenges and am always seeking new learning paths to refine my skills and build consistent projects. I'm interested in these positions: Python Developer, DevOps Cloud or ML Developer.
+I’m an **Information Systems Engineering student at UTN FRC** fueled by a strong curiosity to understand how technology works from the inside out. I love taking on programming challenges and am always seeking new learning paths to refine my skills and build consistent projects. I'm interested in these positions: Python Developer, DevOps Cloud, Site Reliability Engineer or ML Developer.
 
 For clarification, less than 10% of my repos are public.
 
